@@ -1,0 +1,20 @@
+/*
+ * styles.css
+ * Copyright (C) 2016 yyar
+ *
+ * Distributed under terms of the MIT license.
+ */
+
+div.section {
+	box-sizing: border-box;
+	padding: 10px;
+}
+
+section {
+	background: #cccccc;
+	border: 1px black solid;
+}
+
+div#bs-menu-collapse-1 {
+	background: #ccdd11;
+}

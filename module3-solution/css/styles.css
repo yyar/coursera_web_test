@@ -15,6 +15,6 @@ section {
 	border: 1px black solid;
 }
 
-div#bs-menu-collapse-1 {
+div#bs-menu-collapse-1[aria-expanded=true] {
 	background: #ccdd11;
 }
